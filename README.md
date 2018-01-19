@@ -39,3 +39,7 @@ python train_network.py --dataset images --model fuck-fish.model
 python test_network.py --model fuck-fish.model --image examples/pomfret1.jpg
 python test_network.py --model fuck-fish.model --image examples/yellow3.jpg
 ```
+
+---
+
+Code modified from https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
